@@ -1,9 +1,9 @@
 ---
-image: "@assets/astrogon-star.svg"
-imageAlt: Astrogon logo
-title: Astrogon
-content: A rapidly-customizable template for a blog, documentation, and more.
+image: "@assets/Dragon_Vektor_clear.png"
+imageAlt: Dračí doupě logo
+title: Dračí doupě
+content: Letní larpový tábor
 button:
-  label: See the Code
-  link: https://github.com/astrogon/astrogon
+  label: Účastnit se
+  link: https://www.resortbrezova.cz/tabor/draci-doupe/
 ---

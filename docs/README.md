@@ -1,4 +1,6 @@
-# Docs
+ Docs
+ Docs = rules 
+ Blog = lore
 
 Notes
 

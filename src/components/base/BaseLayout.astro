@@ -19,10 +19,10 @@ export interface Props {
 
 const { title, description, image, noindex, canonical } = Astro.props;
 
-const siteTitle = "Astrogon";
-const siteDescription = "Astrogon is a simple and elegant Astro theme.";
-const siteImage = "@assets/og-image.png";
-const siteAuthor = "Jane Doe";
+const siteTitle = "Tábor Dračí Doupě";
+const siteDescription = "Oficiální stránky táboru Dračí Doupě";
+const siteImage = "@assets/Dragon_Vektor_clear.png";
+const siteAuthor = "Marek Pavlíček";
 const baseUrl = "https://janedoe.com";
 ---
 
@@ -33,21 +33,21 @@ const baseUrl = "https://janedoe.com";
     <link
       rel="apple-touch-icon"
       sizes="180x180"
-      href="/favicon/apple-touch-icon.png"
+      href="/favicon/Dragon_Vektor_clear.png"
     />
     <link
       rel="icon"
       type="image/png"
       sizes="32x32"
-      href="/favicon/favicon-32x32.png"
+      href="/favicon/Dragon_Vektor_clear.png"
     />
     <link
       rel="icon"
       type="image/png"
       sizes="16x16"
-      href="/favicon/favicon-16x16.png"
+      href="/favicon/favicon-16x16.ico"
     />
-    
+
     <link rel="sitemap" href="/sitemap-index.xml" />
 
     <meta name="theme-name" content="pages" />
@@ -126,7 +126,7 @@ const baseUrl = "https://janedoe.com";
       integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh"
       crossorigin="anonymous"
       onload="renderMathInElement(document.body);"></script>
-      
+
     <!-- https://docs.astro.build/en/guides/view-transitions -->
     <ClientRouter fallback="swap" />
     <Tooltips interactive={false} delay={[333, 0]} />

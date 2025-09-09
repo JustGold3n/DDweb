@@ -1,8 +1,9 @@
 ---
-title: Hey, I'm Jane Doe!
-description: this is meta description
-image: "@assets/profile/jane-doe.jpg"
+title: O táboře
 draft: false
 ---
+- Tábor je primárně koncipovaný jako LARPový tábor zaměřený na náš svět Dračího doupěte. Táborníci se budou moci ponořit do světa Dračího doupěte hned v několika rozličných aktivitách, z nichž jedinou povinnou je LARP. Speciální vybavení, které je na tábor potřeba, je pouze kostým a měkčená zbraň, které bude možné si vypůjčit na místě. Tábora se může účastnit dítě ve věku 13-19 let (+- rok).
+<br>
+<br>
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+- S otázkami ohledně organizace, kostýmů, příběhu, nebo čehokoliv jiného se můžete vždy obrátit na náš e-mail, Discord nebo Facebook.

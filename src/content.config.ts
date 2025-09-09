@@ -48,7 +48,7 @@ const authors = defineCollection({
 });
 
 const blog = defineCollection({
-  loader: glob({ pattern: "**\/[^_]*.{md,mdx}", base: "./src/content/blog" }),
+  loader: glob({ pattern: "**\/[^_]*.{md,mdx}", base: "./src/content/lore" }),
   schema: ({ image }) =>
     searchable.extend({
       date: z.date().optional(),
@@ -63,7 +63,7 @@ const blog = defineCollection({
 });
 
 const docs = defineCollection({
-  loader: glob({ pattern: "**\/[^_]*.{md,mdx}", base: "./src/content/docs" }),
+  loader: glob({ pattern: "**\/[^_]*.{md,mdx}", base: "./src/content/rules" }),
   schema: ({ image }) =>
     searchable.extend({
       pubDate: z.date().optional(),

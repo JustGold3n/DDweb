@@ -1,8 +1,8 @@
 {
-  "name": "Astrogon",
+  "name": "Tábor Dračí doupě",
   "version": "1.0.0",
-  "description": "Template.",
-  "author": "Jane Doe",
+  "description": "Oficiální stránky tábora Dračí doupě",
+  "author": "JustGold3n",
   "license": "MIT",
   "packageManager": "npm@10.8.2",
   "scripts": {
