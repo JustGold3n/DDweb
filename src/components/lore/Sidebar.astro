@@ -32,7 +32,7 @@ const { tags, categories, allCategories }: Props = Astro.props;
               <li>
                 <a
                   class=""
-                  href={`/blog/categories/${category}`}
+                  href={`/lore/categories/${category}`}
                 >
                   {upperHumanize(category)}{" "}
                   <div class="inline-block pl-1">({count})</div>
@@ -61,7 +61,7 @@ const { tags, categories, allCategories }: Props = Astro.props;
               <li class="inline-block m-1">
                 <Button
                   label={tag}
-                  link={`/blog/tags/${lowerHumanize(tag)}`}
+                  link={`/lore/tags/${lowerHumanize(tag)}`}
                   type="secondary"
                 />
               </li>

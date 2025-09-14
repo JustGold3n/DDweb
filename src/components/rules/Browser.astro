@@ -29,7 +29,7 @@ const { menu, currentPage } = Astro.props;
                   {item.children.map((child) => (
                     <li class="ml-4">
                       <a
-                        href={`/docs/${child.id}`}
+                        href={`/rules/${child.id}`}
                         class={`w-full leading-none no-underline ${child.id === currentPage ? "font-bold" : ""}`}
                       >
                         {child.title}

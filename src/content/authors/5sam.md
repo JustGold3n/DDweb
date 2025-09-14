@@ -7,4 +7,4 @@ social:
   email: "samhirsch@seznam.cz"
   instagram: "https://www.instagram.com/sam_tory_hirsch/"
 ---
-Říkají, že jsem řízek poctivej, vtipnej jak oliheň, většinou  pod vlivem shokolate. (Originál - Výpečky by Fattypillow) 
+Říkají, že jsem řízek poctivej, vtipnej jak oliheň, většinou  pod vlivem shokolate.

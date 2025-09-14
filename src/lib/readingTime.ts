@@ -1,44 +1,35 @@
-// content reading
 const readingTime = (content: string, complexity: number): string => {
+  if (!content || content.trim().length === 0) return "0 min";
+
   const WPS = 200 / 60;
+  const imageRegex = /\.(png|jpg|jpeg|svg|webp|gif)/i;
 
   let images = 0;
-  const regex = /\w/;
+  const words = content
+    .split(/\s+/) // Split by any whitespace
+    .filter((word) => {
+      const cleanWord = word.replace(/[^\w]/g, ""); // Remove punctuation
+      if (imageRegex.test(word)) {
+        images++;
+        return false; // Don't count image filenames as words
+      }
+      return cleanWord.length > 0; // Only count actual words
+    }).length;
 
-  let words = content.split(" ").filter((word) => {
-    if (word.includes(".png)")
-      || word.includes(".jpg)")
-      || word.includes(".svg)")
-      || word.includes(".webp)")
-      || word.includes(".gif)" )
-    ) {
-      images += 1;
-    }
-    return regex.test(word);
-  }).length;
-
+  // Image time calculation (unchanged)
   let imageSecs = 0;
   let imageFactor = 12;
 
-  while (images) {
+  for (let i = 0; i < images; i++) {
     imageSecs += imageFactor;
-    if (imageFactor > 3) {
-      imageFactor -= 1;
-    }
-    images -= 1;
+    if (imageFactor > 3) imageFactor--;
   }
 
-  let ttr = 0; // time to read (in minutes)
-  ttr = words / WPS;
-  ttr = ttr + imageSecs;
-  ttr = ttr * complexity;
-  ttr = Math.ceil(ttr / 60);
+  // Calculate total time
+  const totalSeconds = words / WPS + imageSecs;
+  let ttr = Math.ceil((totalSeconds * complexity) / 60);
 
-  if (ttr < 2) {
-    return ttr + ` min`;
-  } else {
-    return ttr + ` mins`;
-  }
+  return `${ttr} min${ttr !== 1 ? "s" : ""}`;
 };
 
 export default readingTime;

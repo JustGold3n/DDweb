@@ -1,5 +1,5 @@
 ---
-title: Documentation
-description: This is the docs
+title: Pravidla
+description: Spellsystém a Obecná Pravidla
 draft: false
 ---
