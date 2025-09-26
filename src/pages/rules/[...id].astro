@@ -1,12 +1,12 @@
 ---
 import type { DocsEntry, MenuItem } from "@/types";
-import EntryLayout from "@components/lore/EntryLayout.astro";
-import CollectionLayout from "@components/lore/CollectionLayout.astro";
+import EntryLayout from "@components/rules/EntryLayout.astro";
+import CollectionLayout from "@components/rules/CollectionLayout.astro";
 import { getEntries, getEntriesInGroup, getGroups } from "@lib/contentParser";
 import { sortByTitle } from "@lib/sortFunctions";
 
 export async function getStaticPaths() {
-  const entries = (await getEntries("lore", sortByTitle)) as DocsEntry[];
+  const entries = (await getEntries("rules", sortByTitle)) as DocsEntry[]; //mozna pouziva lore
 
   const paths = entries.map((entry) => {
     const segments = entry.id.replace("/-index", "").split("/");
@@ -30,18 +30,18 @@ export async function getStaticPaths() {
 const { entry, isGroup } = Astro.props;
 const groupName = entry.id.replace("/-index", "");
 const groupEntries = isGroup
-  ? ((await getEntriesInGroup("lore", groupName, sortByTitle)) as DocsEntry[])
+  ? ((await getEntriesInGroup("rules", groupName, sortByTitle)) as DocsEntry[])
   : [];
 
 // Construct Doc Browser menu
 const browserMenu: MenuItem[] = [];
-const groups = (await getGroups("lore", sortByTitle)) as DocsEntry[];
+const groups = (await getGroups("rules", sortByTitle)) as DocsEntry[];
 await Promise.all(
   groups.map(async (group) => {
     const groupEntries = (await getEntriesInGroup(
-      "lore",
+      "rules",
       group.id.replace("/-index", ""),
-      sortByTitle
+      sortByTitle,
     )) as DocsEntry[];
     browserMenu.push({
       title: group.data.title,
@@ -52,7 +52,7 @@ await Promise.all(
         children: [],
       })),
     });
-  })
+  }),
 );
 ---
 
