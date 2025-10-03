@@ -7,4 +7,5 @@ social:
   facebook: "https://www.facebook.com/share/1BYEyN3MbH/"
 ---
 
-Starám se o hladký průběh tábora z hlediska byrokracie a o bolístky na těle i na duši. Mimo to jsem taky vrchní fotograf a správce táborového instagramu.
+Starám se o hladký průběh tábora z hlediska byrokracie a o bolístky na těle i na duši. Mimo to jsem.
+taky vrchní fotograf a správce táborového instagramu.
