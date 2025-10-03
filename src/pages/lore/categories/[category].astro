@@ -6,7 +6,7 @@ import taxonomyFilter from "@lib/taxonomyFilter";
 import TaxonLayout from "@components/lore/TaxonLayout.astro";
 
 export async function getStaticPaths() {
-  const taxa = await getTaxa("blog", "categories");
+  const taxa = await getTaxa("lore", "categories");
   const paths = taxa.map((taxon) => ({
     params: {
       category: taxon,
@@ -17,8 +17,12 @@ export async function getStaticPaths() {
 }
 
 const { taxon } = Astro.props;
-const entries = await getEntries("blog") as BlogEntry[];
-const filteredEntries: BlogEntry[] = taxonomyFilter(entries, "categories", taxon!);
+const entries = (await getEntries("lore")) as BlogEntry[];
+const filteredEntries: BlogEntry[] = taxonomyFilter(
+  entries,
+  "categories",
+  taxon!,
+);
 ---
 
 <TaxonLayout taxon={taxon} entries={filteredEntries} />
