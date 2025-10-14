@@ -1,0 +1,13 @@
+---
+title: Rybí radovánky
+description: "Příběh o neuvěřitelném incidentu v podzemním přístavu, kdy obří ryba způsobila chaos a jednomu muži přinesla podnikatelský nápad"
+#image: "@assets/stories/fish-rampage/cover.jpg"
+imageAlt: "Obří bílá ryba valící se podzemním kanálem tažící za sebou rybářskou loďku"
+pubDate: 2024-07-15
+modDate: 2024-08-03
+---
+Torsten Haraldson se procházel po podzemním přístavu. Poslouchal, jak trpasličí mistři pokřikují příkazy po gobliních pacholcích, kteří na břeh vynášeli nejrůznější druhy zboží. Očima jezdil po pultech s rybami a taky si prohlížel kádě, kde byla zvířata ještě živá. Byly to šeredné potvory, v podzemních vodách se vyskytovaly zejména pobledlé ryby se slepýma, bílýma, vypouklýma očima, na pohled docela odpudivé, jenže když se dobře dokořenily a přidaly se k nim ty správné přílohy, byl z nich delikátní pokrm. U stánku s extra velkými běhouny, kteří se plácali na pultu, se Torsten zastavil a pečlivě vybíral. Jak tak pozoroval ryby, něco ho vyrušilo. Rozhlédl se kolem, všichni civěli na ústí tunelu, který vedl do sousední říše, k Sekerolamcům.
+
+Najednou obrovský rachot, bylo slyšet bití vln o stěny kanálu a řev. Najednou se z tunelu vyřítila vlna. Počkat! Nebyla to jen vlna, ve vodě byla masivní bílá ryba. Torsten si všiml, že má v sobě zabodnutých alespoň půl tuctu harpun. Lana ze zbraní byla našponovaná, jako kdyby za sebou ryba ještě něco táhla. Byla to malá rybářská bárka a na její omlácené přídi se zuby nehty za zábradlí drželi čtyři trpaslíci a řvali z plných plic. Nebylo rozumět co řvou, ale to ani nebylo potřeba. Obrovskou rychlostí se rybí monstrum prohnalo kolem místa, kde Torsten stál. Všechny včetně jeho ohodila velká vlna, kterou způsobila ryba. Přihlížející otáčeli nevěřící hlavy po výjevu, který byl jako vytržený z nějaké epické báje. V tu chvíli se ozvalo duté zadunění, Torsten cítil že se zem trochu otřásla. Lámání dřeva, ryk trpasličích rybářů a vlnobití. A pak jen ticho, které doplňoval pomalu se uklidňující zvuk vody. Ryba narazila do jednoho z kamenných mol přístavu a vznášela se teď břichem vzhůru na hladině.
+
+Torsten se rozběhl k místu srážky. Viděl malou loďku, nebo spíš to co z ní zbylo, třísky vhodné možná tak na táborák. Z trosek už pár pohotových jedinců začalo vyprošťovat rybáře. Jeden z nich splýval obličejem dolů až za molem. Pro něj už se taky jeden trpaslík vydal. Torsten se podíval na zrůdné bílé zvíře, které zapříčinilo, že je celý promočený. Nevěřícně vrtěl hlavou vlevo vpravo a hladil si durch knír. Vypadalo to na nějaký zmutovaný druh sumcovce. V hlavě mu proběhla myšlenka. Narovnal se, oči mu zajiskřily a rychlou chůzí se vydal směrem k radnici.

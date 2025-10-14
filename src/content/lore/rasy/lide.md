@@ -13,12 +13,6 @@ Mezi střední třídu se řadí lidé jako vojáci, řemeslníci, statkáři ne
 
 Vyšší třída (páni)
 Do vyšší třídy patří jen vyvolení, jako jsou bohatí obchodníci, šlechta, armádní velitelé či vysoce postavení úředníci. jejich oblečení by mělo ukazovat a křičet jejich status svou kvalitou a elegancí. Od bot, přes barevné kalhoty a svršky, až po nejrůznější pokrývky hlavy a blyštivé brože. Bohužel, ne každý může být urozený a tak pokud zvažujete tuto třídu, raději nám předem napište.
-Vesničan na vinici
-Vesničan na vinici
-Vesele pochodující voják
-Vesele pochodující voják
-Bohatýři uzavírající dohodu
-Bohatýři uzavírající dohodu
 
 Kultura
 
@@ -37,23 +31,11 @@ Vlci - nebojácní a odhodlaní, je-li jejich smečka poblíž.
 Vlaštovky - zvyklé na dlouhé cesty a časy hladu, často vedou svobodný kočovný život.
 Hadi - Ty jenž jsou jedem obdařeni, nemůže jed již nikterak zranit. 
 Jeleni - naslouchají hvězdám, zemi i obloze . Skrze ně jde hlas.
-Ukázka z knihy kněžky Mirx
-Ukázka z knihy kněžky Mirx
-Ukázka z knihy kněžky Mirx
-Ukázka z knihy kněžky Mirx
-Ukázka z knihy kněžky Mirx
-Ukázka z knihy kněžky Mirx
-Ukázka z knihy kněžky Mirx
-Ukázka z knihy kněžky Mirx
-Ukázka z knihy kněžky Mirx
-Ukázka z knihy kněžky Mirx
 
 Dary
 Lidé byli odjakživa velmi společenští a rádi podpořili komunitu ve které žijí. To postupem věků vedlo až ke společenské nutnosti a ta se časem vryla do podvědomí všech lidí. Člověk, který za den neobdaruje ani jedinou bytost se tak stává až fyzicky nemocným. Přestože nezáleží na velikosti daru ani jeho ceně, od bohatých členů společnosti se očekávají výrazně honosnější dary. 
 
 Vláda:
-Rozpad Blatavské říše
-Rozpad Blatavské říše
 
 Lidé po staletí žijí ve feudálním systému království a arcibiskupství, které společně stejnou mírou válčí a obchodují. Největší lidský stát, který kdy tyto území kdy spojil byla pak Blatavská říše. Ta pokrývala značnou část známého světa a byla tvořena mnoha kulturami, jazyky a cíli jejich lidských obyvatel. Ta se ale v nedávných letech rozpadla po brutální občanské válce, která bývalé území zanechala v krutém boji o suroviny, vliv a v mnohých případech přežití.
 
