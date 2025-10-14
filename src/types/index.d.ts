@@ -25,6 +25,7 @@ export type SearchableEntry =
   | TermsEntry;
 
 export type SocialLinks = {
+  phone?: string;
   discord?: string;
   email?: string;
   facebook?: string;
@@ -35,7 +36,7 @@ export type SocialLinks = {
   tiktok?: string;
   website?: string;
   youtube?: string;
-}
+};
 
 export type EntryReference = {
   id: string;

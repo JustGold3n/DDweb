@@ -12,6 +12,7 @@ const searchable = z.object({
 });
 
 const social = z.object({
+  phone: z.string().optional(),
   discord: z.string().optional(),
   email: z.string().optional(),
   facebook: z.string().optional(),
