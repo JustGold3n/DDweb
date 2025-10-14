@@ -12,6 +12,7 @@ import {
   FaTiktok,
   FaGlobe,
   FaYoutube,
+  FaPhone,
 } from "react-icons/fa";
 
 interface Props {
@@ -28,6 +29,20 @@ const iconClass =
 {
   links && (
     <ul class="py-2 flex items-center">
+      {links.phone && (
+        <li class={liClass}>
+          <a
+            class={iconClass}
+            aria-label="Phone number"
+            href={links.phone}
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+          >
+            <span class="sr-only">Phone</span>
+            <FaPhone className="w-6 h-6" />
+          </a>
+        </li>
+      )}
       {links.discord && (
         <li class={liClass}>
           <a
