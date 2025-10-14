@@ -9,16 +9,13 @@ const searchableCollections = [
   "authors",
   "lore",
   "rules",
-  "poetry",
-  "portfolio",
-  "recipes",
   "terms",
 ] as CollectionKey[];
 
 const searchList = (await getEntriesBatch(
   searchableCollections,
   undefined,
-  false
+  false,
 )) as SearchableEntry[];
 ---
 
