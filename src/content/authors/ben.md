@@ -5,6 +5,7 @@ image: "@assets/profile/ben.jpg"
 social:
   instagram: "https://www.instagram.com/yeedash?igsh=dGtwOHUxOTA2eTNm"
   facebook: "https://www.facebook.com/share/1BYEyN3MbH/"
+  discord: "https://discord.com/users/482905761689763840"
 ---
 
 Starám se o hladký průběh tábora z hlediska byrokracie a o bolístky na těle i na duši. Mimo to jsem.

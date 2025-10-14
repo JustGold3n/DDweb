@@ -6,5 +6,6 @@ social:
   github: "https://github.com/Just_Gold3n"
   email: "marek@pavlicek.eu"
   instagram: "https://www.instagram.com/just.gold3n/"
+  discord: "https://discord.com/users/306842066975981570"
 ---
 Developer, šermíř, pedagog, zdravotník a majitel peněz
