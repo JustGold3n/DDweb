@@ -1,11 +1,12 @@
 ---
 title: Marek
 email: marek@pavlicek.eu
-image: "@assets/profile/Gold3n.png"
+image: "@assets/profile/marek.png"
 social:
   github: "https://github.com/Just_Gold3n"
   email: "marek@pavlicek.eu"
   instagram: "https://www.instagram.com/just.gold3n/"
   discord: "https://discord.com/users/306842066975981570"
 ---
+
 Developer, šermíř, pedagog, zdravotník a majitel peněz
