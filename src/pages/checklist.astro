@@ -1,0 +1,9 @@
+---
+import type { AboutEntry } from "@/types";
+import EntryLayout from "@components/checklist/EntryLayout.astro";
+import { getIndex } from "@lib/contentParser";
+
+const entry = (await getIndex("checklist")) as AboutEntry;
+---
+
+<EntryLayout entry={entry} />

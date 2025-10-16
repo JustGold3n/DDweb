@@ -33,7 +33,22 @@ const about = defineCollection({
       imageAlt: z.string().default(""),
     }),
 });
-
+const current = defineCollection({
+  loader: glob({ pattern: "-index.{md,mdx}", base: "./src/content/current" }),
+  schema: ({ image }) =>
+    searchable.extend({
+      image: image().optional(),
+      imageAlt: z.string().default(""),
+    }),
+});
+const checklist = defineCollection({
+  loader: glob({ pattern: "-index.{md,mdx}", base: "./src/content/checklist" }),
+  schema: ({ image }) =>
+    searchable.extend({
+      image: image().optional(),
+      imageAlt: z.string().default(""),
+    }),
+});
 const authors = defineCollection({
   loader: glob({
     pattern: "**\/[^_]*.{md,mdx}",
@@ -113,6 +128,8 @@ const terms = defineCollection({
 // Export collections
 export const collections = {
   about,
+  checklist,
+  current,
   authors,
   lore,
   rules,
