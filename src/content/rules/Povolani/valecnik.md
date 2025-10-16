@@ -1,7 +1,7 @@
 ---
 title: Válečník
 description: "Herní systém pro povolání válečníka s volbou mezi útočníkem a ochráncem - bojové schopnosti, vůdcovství a taktika"
-#image: "@assets/professions/warrior/cover.jpg"
+image: "@assets/rules/classes/fighter.jpg"
 imageAlt: "Válečník v brnění s různými zbraněmi a štítem v bojové pozici"
 pubDate: 2024-07-15
 modDate: 2024-08-03

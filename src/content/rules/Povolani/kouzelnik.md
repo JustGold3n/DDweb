@@ -1,7 +1,7 @@
 ---
 title: Kouzelník
 description: "Herní systém pro povolání kouzelníka s třemi specializacemi - arkanik, zámečník a obecná magie včetně mechaniky kouzel a omezení"
-#image: "@assets/professions/mage/cover.jpg"
+image: "@assets/rules/classes/wizard2.jpg"
 imageAlt: "Kouzelník s magickou knihou a svitky v laboratoři plné alchymistických přísad"
 pubDate: 2024-07-15
 modDate: 2024-08-03
