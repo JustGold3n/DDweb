@@ -1,12 +1,12 @@
 <!-- ---
-// Twinkling Star Background 
+// Twinkling Star Background
 const numStars = 1600;
 const stars = Array.from({ length: numStars }).map(() => ({
   left: `${Math.random() * 100}%`,
   top: `${Math.random() * 100}%`,
   size: `${Math.random() * 2 + 1}px`,
   delay: `${7 * Math.random()}s`,
-  // hsl: `hsl(${Math.random() * 360}, 100%, 50%)`, // background: ${hsl}; 
+  // hsl: `hsl(${Math.random() * 360}, 100%, 50%)`, // background: ${hsl};
 }));
 ---
 <div
@@ -26,10 +26,7 @@ const stars = Array.from({ length: numStars }).map(() => ({
       />
     ))
   }
-</div> -->
-
-<!-- Gradient Cycle Background -->
-<!-- <div
+</div> --><!-- Gradient Cycle Background --><!-- <div
   class="gradient animate-cycleBg fixed top-0 left-0 w-full h-full -z-1 pointer-events-none overflow-hidden"
 />
 <style>
@@ -37,10 +34,7 @@ const stars = Array.from({ length: numStars }).map(() => ({
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
     background-size: 400% 400%;
   }
-</style> -->
-
-<!-- Single Image Background -->
-<!-- <style>
+</style> --><!-- Single Image Background --><!-- <style>
   html::before {
     content: "";
     position: fixed;
@@ -52,15 +46,14 @@ const stars = Array.from({ length: numStars }).map(() => ({
     z-index: -1;
     pointer-events: none;
   }
-</style> -->
-
-<!-- Dual Image Background -->
+</style> --><!-- Dual Image Background -->
 <style>
   html::before,
   html::after {
     content: "";
     position: fixed;
-    top: 0; left: 0;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -72,7 +65,7 @@ const stars = Array.from({ length: numStars }).map(() => ({
   }
 
   html::before {
-    background-image: url(/src/assets/backgrounds/bwca-day.png);
+    background-image: url(/src/assets/backgrounds/day-town-bg.jpg);
     opacity: 1;
   }
 
@@ -81,7 +74,7 @@ const stars = Array.from({ length: numStars }).map(() => ({
   }
 
   html::after {
-    background-image: url(/src/assets/backgrounds/bwca-night.png);
+    background-image: url(/src/assets/backgrounds/night-town-bg.jpg);
     opacity: 0;
   }
 

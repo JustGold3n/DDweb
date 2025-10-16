@@ -1,5 +1,5 @@
 ---
-title: Pravilda Dračáků
+title: Pravidla Dračáků
 description: "Podrobný systém pro řešení boje, akcí, hodů na zásah a ověření dovedností včetně Obrany-schopnosti pro jednotlivá povolání"
 #image: "@assets/rules/combat-system/cover.jpg"
 imageAlt: "Bojová scéna s postavami v akci, ukazující různé typy útoků a kouzel"
