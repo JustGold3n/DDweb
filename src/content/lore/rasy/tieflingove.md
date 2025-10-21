@@ -6,7 +6,7 @@ imageAlt: "Tieflingové s různými barvami kůže a rohy představující své 
 pubDate: 2024-07-15
 modDate: 2024-08-03
 ---
-## Popis
+### Popis
 
 Tieflingové jsou humanoidní rasa s divokými barvami kůže. Nejčastěji se jedná o odstíny rudé a fialové, ale jsou zaznamenány i případy modrého zbarvení. Dále tieflinga poznáte podle rohů, ty jim vyrůstají téměř kdekoli po těle a mohou nabývat nejrůznějších velikostí i tvarů.
 
@@ -14,17 +14,17 @@ Původ tieflingů je magický. Přestože se tieflingem můžete i narodit, vět
 
 Povahou bývají často velmi ambiciózní a nebojí se využít situací ve svůj prospěch, což ostatně vyplývá už z podstaty smlouvy kterou podepsali. Tyto vlastnosti z nich pak dělají skvělé obchodníky, diplomaty i politiky.
 
-## Kostým
+### Kostým
 
 Kostým tieflinga by měl být barevný a oproti kostýmům ostatních ras výrazný. Tieflingové si užívají zářivé barvy jako je zlatá nebo rudá. Další věc, která může být součástí kostýmu jsou četné šperky a cetky rozvěšené po celém těle. Zvláště důležité jsou pak mezi tieflingy prsteny, kterými vyjadřují svoje zaměření, bohatství a věrnost. Tieflingové ale nejsou hloupí a v případě potřeby mohou nosit i obyčejnější šat lépe zapadající do davu nebo do přírody.
 
-## Kultura
+### Kultura
 
-### Smlouva
+#### Smlouva
 
 Smlouva je nejčastější způsob jak se osoba stane tieflingem. Ten, kdo uzavře smlouvu s jakoukoliv bytostí prázdnoty dostane odměnou (za svoji službu a duši) část moci od dané bytosti. To mohou být nejrůznější schopnosti, mimo jiné ve všech případech také dlouhověkost.
 
-### Bytosti prázdnoty
+#### Bytosti prázdnoty
 
 Kdo jsou však nejčastější bytosti, které uzavírají s tieflingy smlouvu?
 

@@ -2,7 +2,7 @@
 title: Co s sebou?
 draft: false
 ---
-## Důležitá dokumentace
+### Důležitá dokumentace
 
 Táborníka nestačí na tábor pouze přihlásit, při příjezdu je nutné mít veškerou dokumentaci:
 
@@ -11,9 +11,9 @@ Táborníka nestačí na tábor pouze přihlásit, při příjezdu je nutné mí
 - Kartičku pojištěnce (nebo její kopii)
 - Léky a jejich dokumentaci (pokud jsou potřeba)
 
-## Obecné vybavení
+### Obecné vybavení
 
-### Oblečení
+#### Oblečení
 - Ponožky
 - Spodní prádlo
 - Kalhoty
@@ -25,7 +25,7 @@ Táborníka nestačí na tábor pouze přihlásit, při příjezdu je nutné mí
 - Pláštěnka
 - Plavky
 
-### Ostatní
+#### Ostatní
 - Lahev na vodu
 - Kapesné (na středisku je bufet - možno platit i kartou)
 - Nabíječka
@@ -33,7 +33,7 @@ Táborníka nestačí na tábor pouze přihlásit, při příjezdu je nutné mí
 - Kostky nebo jiné hry
 - Psací potřeby a volné listy
 
-## Toaletní potřeby
+### Toaletní potřeby
 
 - Ručník
 - Zubní pasta
@@ -44,7 +44,7 @@ Táborníka nestačí na tábor pouze přihlásit, při příjezdu je nutné mí
 - Krém na opalování
 - Pro dívky hygienické potřeby
 
-## Kostým
+### Kostým
 
 Na tábor je vhodné si přivézt vlastní kostým, je však možné si jej na místě zapůjčit. Kostým by měl odpovídat rase a postavě, kterou si dítě chce zahrát (více o kostýmech na jednotlivé postavy zde).
 
@@ -61,11 +61,11 @@ Kostým se také dá doplnit:
 
 *S otázkami na kostýmy, jejich výrobu, kvalitu, atd. se kdykoliv obraťte na náš e-mail, Facebook nebo Discord.*
 
-## Výzbroj
+### Výzbroj
 
 Stejně jako kostým se zbraně dají zapůjčit na středisku na začátku tábora.
 
-### Bezpečnostní standardy zbraní
+#### Bezpečnostní standardy zbraní
 
 Zbraně vyrábíme bezpečně. Jsou tvořeny:
 - Pevným jádrem obaleným měkčením
@@ -76,13 +76,13 @@ Zbraně vyrábíme bezpečně. Jsou tvořeny:
 
 **Na začátku tábora veškeré zbraně kontrolujeme.**
 
-### Štíty
+#### Štíty
 
 - Vyrábíme ze dřeva
 - Hranu měkčíme (např. rozříznutou hadicí nebo karimatkou)
 - Měkčení hrany štítu je pro bezpečí uživatele
 
-### Luky a šípy
+#### Luky a šípy
 
 - Luky používáme pouze do nátahu 15 kg
 - Šípy (u kuší šipky) musí být zakončeny bambulí:
@@ -95,6 +95,6 @@ Zbraně vyrábíme bezpečně. Jsou tvořeny:
 
 **Budeme-li mít při schvalování zbraní pochybnosti o konstrukci hlavic šípů, může být jedna z těchto bambulí podrobena zkoušce z bezpečnosti vedoucí k nenávratné destrukci této jedné hlavice.**
 
-### Estetika
+#### Estetika
 
 Zbraně a kostýmy by ideálně měly vypadat alespoň s nádechem středověku.

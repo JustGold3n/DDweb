@@ -6,7 +6,7 @@ imageAlt: "Starý pergamen s pečetí vedle mapy Nové země"
 pubDate: 2024-07-15
 modDate: 2024-08-03
 ---
-## Osidlovací listina
+### Osidlovací listina
 
 Přepis osidlovací listiny nacházející se v městech Blatavské říše. Tato listina oznamuje a vybízí k počátku kolonizace ostrova Nová země.
 
@@ -16,7 +16,7 @@ Za včasné přihlášení ke kolonizaci a její úspěšnost nabízí odvážn�
 
 *(-listina již není relevantní)*
 
-## Semena chaosu
+### Semena chaosu
 
 **Úryvek lodního deníku kapitána Sezemy z Háje na plavbě do Nové země**
 
@@ -24,7 +24,7 @@ Za včasné přihlášení ke kolonizaci a její úspěšnost nabízí odvážn�
 
 Vítr nám dnes přál. Vál mírný jihovýchodní vánek, který umožnil vést celý den stabilní kurz k Nové zemi. Při ranní modlitbě jsem však zaznamenal nezvyklý šepot z davu osadníků. Zvedl jsem zrak a koutkem oka nahlédl odkud jde ten hluk. Mladík, bylo mu sotva dvacet, kymácel se zepředu dozadu a slabým hlasem do ticha modlitby šeptal nesrozumitelnou řečí. Byl jsem nucen přerušit modlitbu. Dav lidí se rozestoupil a já kvapným krokem vyrazil vpřed. Než-li se stačil vzpamatovat, rozerval jsem mu dýkou zpocenou tuniku. Před zraky celé posádky se v ten okamžik zjevili puchýře a hnijící rány, jenž hyzdili jeho trup. Bez váhání jsem mu podřezal hrdlo, z kterého se řinula černá krev a odporný zápach. Tělo jsme po nezdařilém pokusu o spálení hodili do moře. Chaos byl zažehnán.
 
-## Ohnisko zkázy
+### Ohnisko zkázy
 
 **Zevrubná kronika Nové země**
 
@@ -34,7 +34,7 @@ Brzy se však mezi osadníky začali projevovat známky nákazy. Zasaženi nebyl
 
 Ohniskem nákazy byl dle některých pramenů kapitán Sezema z Háje. Toto však osobně považuji za velmi nepravděpodobné, jelikož byl zmizen před vypuknutím otevřených bojů s démony.
 
-## Boje Bludařské
+### Boje Bludařské
 
 **Zevrubná kronika Nové země**
 
@@ -44,6 +44,6 @@ Armády Bludařů v čele s démony zahájili obléhání kolonie na Nové Zemi.
 
 Svitek Chaosu byl zničen obětí mocného elfího čaroděje.
 
-## Obchodní změny
+### Obchodní změny
 
 Já Arkan Ulfr klanu rudovousých tímto jménem Západní obchodní společnosti oznamuji kolonistům Nové země, že končí bezuzdné financování zdejší rozmařilosti a lenosti. Do změny stavu již nadále naše společnost nebude do kolonie dodávat zboží. Bude jen nakupovat tak, jak se ve vztahu k rozvojovému městu sluší a patří. Zdejší řemeslníci a dělnictvo se však ničeho nemusí bát! Naše opatření se dotkne jen elit a jejich přepychu. Výkup zboží a materiálu za bezkonkurenční ceny bude nadále pokračovat stejně jako civilní přeprava z a do kolonie!

@@ -6,13 +6,13 @@ imageAlt: "Podrobná mapa trpasličích podzemních měst a klanových území"
 pubDate: 2024-07-15
 modDate: 2024-08-03
 ---
-## Populace
+### Populace
 
 **Západní trpaslíci:** cca 150 tisíc při 95% urbanizaci + 680 tisíc goblinů
 
 **Východní trpaslíci:** cca 5 mil. při 90% urbanizaci + 26 mil. Goblinů
 
-## Mapy
+### Mapy
 
 - Kulturní mapa
 - Geografická mapa

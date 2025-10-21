@@ -6,7 +6,7 @@ imageAlt: "Mapa elfských území s vyznačenými městy a kulturními regiony"
 pubDate: 2024-07-15
 modDate: 2024-08-03
 ---
-## Populace
+### Populace
 
 **Vznešení elfové:** cca 2 mil. při 15-20% urbanizaci
 
@@ -14,7 +14,7 @@ modDate: 2024-08-03
 
 **Lidé pod nadvládou Elfího Imperrechu:** cca 12 mil. při 9% urbanizaci
 
-## Mapy
+### Mapy
 
 - Geografická mapa + města
 - Kulturní mapa---

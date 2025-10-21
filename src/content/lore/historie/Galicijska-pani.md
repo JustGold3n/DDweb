@@ -14,7 +14,7 @@ Galície je krom jiného známá pro své lodě a obchod. Galicíjská obchodní
 
 Rytíři lilie jsou nábožensky založené ozbrojené jednotky, jenž prosazují právo Hvězdného otce a tak i své Paní.
 
-## Společenské postavení
+### Společenské postavení
 
 Postavení Galicijské společnosti je pyramidové:
 

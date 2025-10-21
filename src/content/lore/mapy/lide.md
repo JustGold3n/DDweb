@@ -6,7 +6,7 @@ imageAlt: "Geopolitická mapa lidských států s vyznačenými hranicemi a měs
 pubDate: 2024-07-15
 modDate: 2024-08-03
 ---
-## Populace
+### Populace
 
 **Státy na území bývalé Blatavské říše:** cca 40 mil. lidí při 5% urbanizaci
 
@@ -18,7 +18,7 @@ modDate: 2024-08-03
 
 **Lidé pod nadvládou Elfího Imperrechu:** cca 12 mil. při 9% urbanizaci
 
-## Mapy
+### Mapy
 
 - Vévodství Blatavské Říše
 - Království Blatavské Říše  

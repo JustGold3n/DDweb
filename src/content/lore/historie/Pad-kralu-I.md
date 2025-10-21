@@ -8,7 +8,7 @@ modDate: 2024-08-03
 ---
 Od smrti krále Neklana stíhá Blatavské země neblahá nástupnická válka. Na jedné straně stojí vojska krále Přivitana Odporného (červená), staršího ze synů Neklanových, za něhož se postavila starší šlechta Blatavská, a o jehož činech nejen u Vrákova, nýbrž i jinde, se zde nesluší hovořit. Na straně druhé pak udatně bojují doposud neporažená vojska krále Lesteka Udatného (zelená), mladšího ze synů Neklanových, za jehož armádní převahu se zasloužila mladší šlechta Blatavská spolu s Obchodní ligou z Galície, a který jest lidmi oblíben pro svoji ochotu a štědrost. Na kolonizaci Nové země byli lidé vysláni ze zemí pod nadvládou krále Přivitana. Je možné, že někteří z nich tak učinili ze strachu, z hrůz válečných, jiní zase z přesvědčení.
 
-## Průběh
+### Průběh
 
 Přivitan využil v prvních měsících bleskových posunů armád jež dleli nedaleko města Chmur a dobyl tak vévodství Oskolinu a tím sjednotil Záhorsko.
 
@@ -16,23 +16,23 @@ Po složení Armád Lesekových spolu s Galicíjskými se tito spojenci vydali n
 
 Mezitím na Nové Zemi došlo ke vzpouře a tamní říšský zástupce byl nemilosrdně odpraven.
 
-## Skon vlastizrádce
+### Skon vlastizrádce
 
 Vojenská převaha a značná vítězství na bitevních polích mladšího z bratrů, Leseka (dříve zvaného udatný, dnes již jen Zbabělec), zdálo se vedla ke konci války. Zbabělcův osud však neležel na trůnu říšském. A jak se mělo se též stalo. Zbabělec byl zavražděn. Zabit vlastní pravou rukou, Křesinou, vévodou Smolnickým, lehl Lesek v podlahu hradu Chmur.
 
-## Návrat Císaře
+### Návrat Císaře
 
 Přivitan (Dříve zvaný odporný) jmenoval se Osvoboditelem říše, když na počest skonu svého bratra nasadil císařskou korunu v obřadních sálech zámku v Háji. Následující dopis nechal pak rozeslat veškeré šlechtě Blatavské.
 
-## Hon za korunou
+### Hon za korunou
 
 Před zraky šlechty se císař rozhodl, že prokáže svoji sílu a že skolí statného kance "Beru si čumáček" prohlásil, seskočil z koně a vzápětí skonal na kly onoho mohutného pašíka. Místo hostiny se tak konal pohřeb, jenž uvedl říši do nejistoty ohledně nástupnictví. "Čeká nás další válka?" se už na pohřbu šeptalo.
 
-## Nová Země
+### Nová Země
 
 A co Nová Země? Ano, všichni na ni zapomněli.
 
-## Chaos v Blatávii
+### Chaos v Blatávii
 
 Není tomu tak dávno, co byla Blatavská říše prosperující a jednotnou zemí, kde vládli silní a vážení panovníci. Avšak vše se změnilo, když po smrti svého otce rozpoutali bratři Přivitan Odporný a Lestek Udatný občanskou válku. Jejich neshody, žárlivost a touha po moci rozdělila království na dva tábory. Zemi zaplavil zmatek a vypukl konflikt, který zasáhl každý kout Blatávie.
 
