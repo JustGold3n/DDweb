@@ -20,7 +20,8 @@ export interface Props {
 const { title, description, image, noindex, canonical } = Astro.props;
 
 const siteTitle = "Tábor Dračí Doupě";
-const siteDescription = "Oficiální stránky táboru Dračí Doupě";
+const siteDescription =
+  "Letní tábor Dračí Doupě je dobrodružství naživo! Zažij nezapomenutelný LARP plný fantasy příběhů, tajemných lesů a přátelské party. Objevuj, tvoř a staň se na týden hrdinou. Vstup do legendy!";
 const siteImage = "@assets/Dragon_Vektor_clear.png";
 const siteAuthor = "Marek Pavlíček";
 const baseUrl = "https://janedoe.com";
@@ -29,6 +30,18 @@ const baseUrl = "https://janedoe.com";
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R7E50W1JYF"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-R7E50W1JYF");
+    </script>
     <!-- favicon -->
     <link
       rel="apple-touch-icon"
@@ -135,7 +148,7 @@ const baseUrl = "https://janedoe.com";
     <Background />
     <Header />
     <main id="main-content" class="flex-1">
-      <slot/>
+      <slot />
     </main>
     <Footer />
     <!-- <ObserverScript /> -->

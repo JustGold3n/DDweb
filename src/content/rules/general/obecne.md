@@ -7,7 +7,6 @@ pubDate: 2024-07-15
 modDate: 2024-08-03
 ---
 
-![Zasahovky](@assets/rules/general/ZasahoveZony.webp)
 ### Zásahové plochy a životový systém
 
 Jestliže vaše postava nemá bonusy na počet životů z rasových vlastností, či získaných schopností, platí, že základ pro postavu je **1 těžký život a 3 lehké**.
@@ -19,6 +18,8 @@ Jestliže vaše postava nemá bonusy na počet životů z rasových vlastností,
 
 Zranění do těchto ploch se počítá pouze řádně měkčenou a vedoucími schválenou zbraní. Platí, že každý 1 zásah představuje pro postavu 1 zranění. Aby se následující zásahy počítali, musí být jasně odděleny adekvátním nápřahem. (Žádné šmrdlání!)
 
+![Zasahovky](@assets/rules/general/ZasahoveZony.webp)
+
 #### Agónie a smrt
 
 Jestliže dojde k vyčerpání počtu životů, postava neumírá, nýbrž upadá do **agónie**. Agónie je 5 minut dlouhý časový úsek ve kterém je možné postavu zachránit za pomoci klasických léčebných procedur (To jsou takové, které nezahrnují nekromancii).
@@ -29,7 +30,6 @@ Jestliže dojde k vyčerpání počtu životů, postava neumírá, nýbrž upad�
 - Postavu v agónii je možné kdykoli "dorazit" a tím i usmrtit
 
 ### Systém úrovní a schopností
-![TabulkaFrajerstvi](@assets/rules/general/TabulkaFrajerstvi.webp)
 
 #### Schopnosti
 
@@ -41,6 +41,7 @@ Schopnosti si vybíráte trvale a tento výběr vás stojí schopnostní body. P
 
 Další úroveň postavy je vždy odemčena dosažením určitého počtu bodů frajerství. Bod frajerství je bod, který vám vedoucí napíší na zadní stranu charakterníku. Za body frajerství odemykáte nové úrovně. Body se sčítají a nepřicházíte o ně. Během herního dne se dá získat 1 - 6 bodů frajerství.
 
+![TabulkaFrajerstvi](@assets/rules/general/TabulkaFrajerstvi.webp)
 ### Rasy a jejich vlastnosti
 
 #### Lidé
