@@ -1,7 +1,7 @@
 ---
 title: Mystik
 description: "Herní systém pro povolání mystika s volbou mezi druidstvím a kněžstvím - léčení, přírodní magie a božské schopnosti"
-image: "@assets/rules/classes/mystic.jpg"
+image: "@assets/rules/classes/MystikPrev.png"
 imageAlt: "Mystik v meditaci obklopený přírodními a božskými symboly"
 pubDate: 2024-07-15
 modDate: 2024-08-03

@@ -1,7 +1,7 @@
 ---
 title: Pravidla Dračáků
 description: "Podrobný systém pro řešení boje, akcí, hodů na zásah a ověření dovedností včetně Obrany-schopnosti pro jednotlivá povolání"
-#image: "@assets/rules/combat-system/cover.jpg"
+image: "@assets/rules/general/DracakPrev.png"
 imageAlt: "Bojová scéna s postavami v akci, ukazující různé typy útoků a kouzel"
 pubDate: 2024-07-15
 modDate: 2024-08-03

@@ -1,7 +1,7 @@
 ---
 title: Učenec
 description: "Herní systém pro povolání učence - alchymie, léčitelství a výroba lektvarů s energetickým managementem a mechanikou hodů"
-#image: "@assets/professions/scholar/cover.jpg"
+image: "@assets/rules/professions/UcenecPrev.png"
 imageAlt: "Učenec v laboratoři s alchymistickými přísadami, lektvary a lékařskými nástroji"
 pubDate: 2024-07-15
 modDate: 2024-08-03

@@ -1,7 +1,7 @@
 ---
 title: Gurmán
 description: "Herní systém pro povolání gurmána - schopnosti vaření, zemědělství, chovu zvířat a výroby alkoholu včetně energetického managementu"
-#image: "@assets/professions/gourmet/cover.jpg"
+image: "@assets/rules/professions/GurmanPrev.png"
 imageAlt: "Gurmán připravující jídlo v kuchyni s různými ingrediencemi a nádobami"
 pubDate: 2024-07-15
 modDate: 2024-08-03

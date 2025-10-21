@@ -1,7 +1,7 @@
 ---
 title: Herbář
 description: "Kompletní herbář Agrippy z Bad Sobernheimu popisující alchymistické přísady, jejich účinky a přípravu pro řád Virgornijského brku"
-#image: "@assets/alchemy/herbarium/cover.jpg"
+image: "@assets/rules/general/HerbarPrev.png"
 imageAlt: "Ilustrovaný herbář s různými magickými rostlinami a alchymistickými přísadami"
 pubDate: 2024-07-15
 modDate: 2024-08-03

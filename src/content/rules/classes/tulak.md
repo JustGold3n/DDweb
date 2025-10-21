@@ -1,7 +1,7 @@
 ---
 title: Tulák
 description: "Herní systém pro povolání tuláka s volbou mezi bardem a hraničářem - schopnosti plížení, krádeží, hudební magie a lovu"
-image: "@assets/rules/classes/bard.jpg"
+image: "@assets/rules/classes/TulakPrev.png"
 imageAlt: "Tulák v pláštíku s různými nástroji pro plížení a hudební nástroje"
 pubDate: 2024-07-15
 modDate: 2024-08-03

@@ -1,7 +1,7 @@
 ---
 title: Dělník
 description: "Herní systém pro povolání dělníka - schopnosti těžby, kovářství, runové magie a výroby artefaktů včetně energetického managementu"
-#image: "@assets/professions/worker/cover.jpg"
+image: "@assets/rules/professions/DelnikPrev.png"
 imageAlt: "Trpasličí dělník s nářadím v podzemní dílně s runovými kameny"
 pubDate: 2024-07-15
 modDate: 2024-08-03
