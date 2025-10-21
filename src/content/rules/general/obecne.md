@@ -7,6 +7,7 @@ pubDate: 2024-07-15
 modDate: 2024-08-03
 ---
 
+![Zasahovky](@assets/rules/general/ZasahoveZony.webp)
 ### Zásahové plochy a životový systém
 
 Jestliže vaše postava nemá bonusy na počet životů z rasových vlastností, či získaných schopností, platí, že základ pro postavu je **1 těžký život a 3 lehké**.
@@ -28,6 +29,7 @@ Jestliže dojde k vyčerpání počtu životů, postava neumírá, nýbrž upad�
 - Postavu v agónii je možné kdykoli "dorazit" a tím i usmrtit
 
 ### Systém úrovní a schopností
+![TabulkaFrajerstvi](@assets/rules/general/TabulkaFrajerstvi.webp)
 
 #### Schopnosti
 
