@@ -16,27 +16,48 @@ export default defineConfig({
   base: "/",
   trailingSlash: "ignore",
   prefetch: {
-    prefetchAll: true
+    prefetchAll: true,
   },
   adapter: cloudflare(),
-  integrations: [react(), sitemap(), tailwind({
-    config: {
-      applyBaseStyles: false
-    }
-  }), AutoImport({
-    imports: ["@components/common/Button.astro", "@shortcodes/Accordion", "@shortcodes/Notice", "@shortcodes/Youtube", "@shortcodes/Tabs", "@shortcodes/Tab"]
-  }), mdx()],
+  integrations: [
+    react(),
+    sitemap(),
+    tailwind({
+      config: {
+        applyBaseStyles: false,
+      },
+    }),
+    AutoImport({
+      imports: [
+        "@components/common/Button.astro",
+        "@shortcodes/Accordion",
+        "@shortcodes/Notice",
+        "@shortcodes/Tabs",
+        "@shortcodes/Tab",
+        "@shortcodes/Youtube",
+      ],
+    }),
+    mdx(),
+  ],
   markdown: {
-    remarkPlugins: [remarkToc, [remarkCollapse, {
-      test: "Table of contents"
-    }], remarkMath],
+    remarkPlugins: [
+      remarkToc,
+      [
+        remarkCollapse,
+        {
+          test: "Table of contents",
+        },
+      ],
+      remarkMath,
+    ],
     rehypePlugins: [[rehypeKatex, {}]],
     shikiConfig: {
-      themes: { // https://shiki.style/themes
+      themes: {
+        // https://shiki.style/themes
         light: "light-plus",
         dark: "dark-plus",
-      } 
+      },
     },
-    extendDefaultPlugins: true
+    extendDefaultPlugins: true,
   },
 });

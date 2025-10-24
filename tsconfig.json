@@ -7,21 +7,44 @@
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
-    "jsx": "react",
+    "jsx": "react-jsx",
     "isolatedModules": true,
     "incremental": true,
     "allowSyntheticDefaultImports": true,
-    "types": ["@astrojs/client"],
+    "types": [
+      "@astrojs/client"
+    ],
     "paths": {
-      "@assets/*": ["./src/assets/*"],
-      "@components/*": ["./src/components/*"],
-      "@helpers/*": ["src/components/helpers/*"],
-      "@lib/*": ["src/lib/*"],
-      "@shortcodes/*": ["src/components/common/shortcodes/*"],
-      "@types/*": ["src/types/*"],
-      "@/*": ["./src/*"]
-    }
+      "@assets/*": [
+        "./src/assets/*"
+      ],
+      "@components/*": [
+        "./src/components/*"
+      ],
+      "@helpers/*": [
+        "src/components/helpers/*"
+      ],
+      "@lib/*": [
+        "src/lib/*"
+      ],
+      "@shortcodes/*": [
+        "src/components/common/shortcodes/*"
+      ],
+      "@types/*": [
+        "src/types/*"
+      ],
+      "@/*": [
+        "./src/*"
+      ]
+    },
+    "jsxImportSource": "react"
   },
-  "include": ["**/*.ts", "**/*.tsx", "**/*.astro"],
-  "exclude": ["node_modules"]
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.astro"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }
