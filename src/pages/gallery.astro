@@ -1,23 +1,49 @@
 ---
 import BaseLayout from "../components/base/BaseLayout.astro";
 import PageHeader from "../components/common/PageHeader.astro";
-
-// ---------------------------------------------------------
-// CONFIGURATION
-// Paste your OneDrive Public Link (Shared "Anyone with link") below
-// Example: "https://1drv.ms/f/s!Am...?e=..."
-//const ONEDRIVE_LINK = "https://onedrive.live.com/?id=%2Fpersonal%2Fb46c9a1f3ad409dc%2FDocuments%2FDDweb";
-// ---------------------------------------------------------
+import Background from "../components/base/Background.astro";
 
 const title = "Galerie";
-const description = "Fotografie a momentky z našich dobrodružství.";
+const description = "Fotografie a vzpomínky z minulých letových běhů.";
 ---
 
 <BaseLayout title={title} description={description}>
-  <PageHeader title={title} />
+  <Background />
+  <PageHeader title={title} description={description} />
 
-  <section class="section">
+  <section class="section pt-0 relative z-10">
     <div class="container">
+
+      <!-- Main Glossy Wrapper for the entire page content -->
+      <div class="glass rounded-lg p-8 lg:p-12">
+        <!-- Facebook Album Integration -->
+        <div class="mb-20">
+          <div class="text-center mb-10">
+            <h2 class="h3 mb-4">Skupinové fotky na Facebooku</h2>
+            <p class="text-text/80 dark:text-darkmode-text/81 max-w-2xl mx-auto">
+              Prohlédněte si všechny naše dosavadní fotografie v facebookovém albu níže. Na facebook Fantasy tábory Březová's v průběhu tábora sdílíme fotky z každého dne.
+            </p>
+          </div>"w
+
+
+          <!-- Elegant Wrapper for Facebook Embed -->
+          <div class="flex justify-center w-full max-w-[750px] mx-auto relative group">
+              <iframe
+                src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbrezova.fantasy.tabory%2Fposts%2Fpfbid02f1ug12khn2kSbH3dDaWK6YYtFWqLrtA7MJEyvs8meAaExQkAMZmbBYZ9xqVQjWEfl&show_text=false&width=750"
+                width="100%"
+                height="800"
+                style="border:none;overflow:hidden"
+                scrolling="yes"
+                frameborder="0"
+                allowfullscreen="true"
+                allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
+                title="Facebook Galerie"
+                class="w-full rounded-xl bg-white shadow-lg"
+              ></iframe>
+        </div>
+      </div>
     </div>
+  </div>
+
   </section>
 </BaseLayout>
