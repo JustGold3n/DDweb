@@ -1,0 +1,23 @@
+---
+import BaseLayout from "../components/base/BaseLayout.astro";
+import PageHeader from "../components/common/PageHeader.astro";
+
+// ---------------------------------------------------------
+// CONFIGURATION
+// Paste your OneDrive Public Link (Shared "Anyone with link") below
+// Example: "https://1drv.ms/f/s!Am...?e=..."
+//const ONEDRIVE_LINK = "https://onedrive.live.com/?id=%2Fpersonal%2Fb46c9a1f3ad409dc%2FDocuments%2FDDweb";
+// ---------------------------------------------------------
+
+const title = "Galerie";
+const description = "Fotografie a momentky z našich dobrodružství.";
+---
+
+<BaseLayout title={title} description={description}>
+  <PageHeader title={title} />
+
+  <section class="section">
+    <div class="container">
+    </div>
+  </section>
+</BaseLayout>

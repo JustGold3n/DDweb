@@ -6,6 +6,9 @@ imageAlt: "Geopolitická mapa lidských států s vyznačenými hranicemi a měs
 pubDate: 2024-07-15
 modDate: 2024-08-03
 ---
+
+import ImageSlider from '@/components/common/shortcodes/ImageSlider';
+
 ### Populace
 
 **Státy na území bývalé Blatavské říše:** cca 40 mil. lidí při 5% urbanizaci
@@ -19,7 +22,27 @@ modDate: 2024-08-03
 **Lidé pod nadvládou Elfího Imperrechu:** cca 12 mil. při 9% urbanizaci
 
 ### Mapy
+<ImageSlider
+  client:load
+  images={[
+    {
+      src: '/src/assets/lore/maps/Mapa- origin.jpeg',
+      alt: 'Originální Mapa',
+      caption: 'Původní starověká mapa kontinentu'
+    },
+    {
+      src: '/src/assets/lore/maps/Mapa-Kultury2.jpeg',
+      alt: 'Kulturní Mapa',
+      caption: 'Rozdělení kultur v dnešní době'
+    },
+    {
+      src: '/src/assets/lore/maps/Mapa-trp-geo-pol-1.jpg',
+      alt: 'Trpasličí říše',
+      caption: 'Geopolitická mapa trpasličích držav'
+    }
+  ]}
+/>
 
 - Vévodství Blatavské Říše
-- Království Blatavské Říše  
+- Království Blatavské Říše
 - Názvy měst na geopolitické mapě všech lidských státních útvarů---
