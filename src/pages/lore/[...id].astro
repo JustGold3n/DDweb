@@ -6,7 +6,7 @@ import { getEntries, getEntriesInGroup, getGroups } from "@lib/contentParser";
 import { sortByTitle } from "@lib/sortFunctions";
 
 export async function getStaticPaths() {
-  const entries = (await getEntries("lore", sortByTitle)) as DocsEntry[]; //mozna pouziva lore
+  const entries = (await getEntries("lore", sortByTitle)) as DocsEntry[];
 
   const paths = entries.map((entry) => {
     const segments = entry.id.replace("/-index", "").split("/");
